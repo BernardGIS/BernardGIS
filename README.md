@@ -1,7 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=6A0D91&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I+am+Bernard+Abubakari;+Welcome+To+My;+Page.;" />
 </h1>
-<!-- ## Hi there 👋
+
+# Hi there 👋
+
+<!-- 
 **BernardGIS/BernardGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
